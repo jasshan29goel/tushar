@@ -1,12 +1,12 @@
 {"nodes":[
-    {"name":"Rohit Sharma", "Number":"45", "x":"80", "y":"80", "Position":"GK", "Status":"starting"},
+    {"name":"Rohit Sharma", "Number":"45", "x":"90", "y":"90", "Position":"GK", "Status":"starting"},
     {"name":"Shikhar Dhawan", "Number":"25", "x":"300", "y":"50", "Position":"Defender", "Status":"starting"},
     {"name":"Virat Kohli", "Number":"18", "x":"70", "y":"360", "Position":"Defender", "Status":"starting"},
     {"name":"Shreyas Iyer", "Number":"41", "x":"260", "y":"450", "Position":"Defender", "Status":"starting"},
-    {"name":"KL Rahul", "Number":"1", "x":"250", "y":"250", "Position":"Defender", "Status":"starting"},
-    {"name":"Ravindra Jadeja", "Number":"8", "x":"650", "y":"50", "Position":"Midfielder", "Status":"starting"},
-    {"name":"Hardik Pandya", "Number":"33", "x":"550", "y":"260", "Position":"Midfielder", "Status":"starting"},    
-    {"name":"Kuldeep Yadav", "Number":"23", "x":"550", "y":"470", "Position":"Midfielder", "Status":"starting"},    
+    {"name":"KL Rahul", "Number":"1", "x":"240", "y":"200", "Position":"Defender", "Status":"starting"},
+    {"name":"Ravindra Jadeja", "Number":"8", "x":"110", "y":"200", "Position":"Midfielder", "Status":"starting"},
+    {"name":"Hardik Pandya", "Number":"33", "x":"140", "y":"250", "Position":"Midfielder", "Status":"starting"},    
+    {"name":"Kuldeep Yadav", "Number":"23", "x":"500", "y":"250", "Position":"Midfielder", "Status":"starting"},    
 	{"name":"Yuzvendra Chahal", "Number":"6", "x":"650", "y":"660", "Position":"Midfielder", "Status":"starting"},
 	{"name":"Bhuvneshwar Kumar", "Number":"15", "x":"870", "y":"150", "Position":"Forward", "Status":"starting"},
 	{"name":"Jasprit Bumrah", "Number":"93", "x":"870", "y":"570", "Position":"Forward", "Status":"starting"}
