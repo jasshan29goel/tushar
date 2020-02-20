@@ -3,12 +3,12 @@
     {"name":"Shikhar Dhawan", "Number":"25", "x":"300", "y":"50", "Position":"Defender", "Status":"starting"},
     {"name":"Virat Kohli", "Number":"18", "x":"70", "y":"360", "Position":"Defender", "Status":"starting"},
     {"name":"Shreyas Iyer", "Number":"41", "x":"260", "y":"450", "Position":"Defender", "Status":"starting"},
-    {"name":"KL Rahul", "Number":"1", "x":"230", "y":"160", "Position":"Defender", "Status":"starting"},
+    {"name":"KL Rahul", "Number":"1", "x":"235", "y":"130", "Position":"Defender", "Status":"starting"},
     {"name":"Ravindra Jadeja", "Number":"8", "x":"130", "y":"190", "Position":"Midfielder", "Status":"starting"},
     {"name":"Hardik Pandya", "Number":"33", "x":"140", "y":"250", "Position":"Midfielder", "Status":"starting"},    
-    {"name":"Kuldeep Yadav", "Number":"23", "x":"460", "y":"250", "Position":"Midfielder", "Status":"starting"},    
-	{"name":"Yuzvendra Chahal", "Number":"6", "x":"300", "y":"170", "Position":"Midfielder", "Status":"starting"},
-	{"name":"Bhuvneshwar Kumar", "Number":"15", "x":"320", "y":"190", "Position":"Forward", "Status":"starting"},
-	{"name":"Jasprit Bumrah", "Number":"93", "x":"870", "y":"570", "Position":"Forward", "Status":"starting"}
+    {"name":"Kuldeep Yadav", "Number":"23", "x":"440", "y":"250", "Position":"Midfielder", "Status":"starting"},    
+	{"name":"Yuzvendra Chahal", "Number":"6", "x":"340", "y":"130", "Position":"Midfielder", "Status":"starting"},
+	{"name":"Bhuvneshwar Kumar", "Number":"15", "x":"360", "y":"150", "Position":"Forward", "Status":"starting"},
+	{"name":"Jasprit Bumrah", "Number":"93", "x":"320", "y":"280", "Position":"Forward", "Status":"starting"}
 ]
 }
