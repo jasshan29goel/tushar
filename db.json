@@ -1,0 +1,14 @@
+{"nodes":[
+    {"name":"Keylor Navas", "Number":"13", "x":"70", "y":"360", "Position":"GK", "Status":"starting"},
+    {"name":"Marcelo", "Number":"12", "x":"300", "y":"50", "Position":"Defender", "Status":"starting"},
+    {"name":"Sergio Ramos", "Number":"4", "x":"250", "y":"260", "Position":"Defender", "Status":"starting"},
+    {"name":"Raphael Varane", "Number":"2", "x":"250", "y":"470", "Position":"Defender", "Status":"starting"},
+    {"name":"Daniel Carvajal", "Number":"15", "x":"300", "y":"660", "Position":"Defender", "Status":"starting"},
+    {"name":"Isco", "Number":"23", "x":"650", "y":"50", "Position":"Midfielder", "Status":"starting"},
+    {"name":"Asier Illarramendi", "Number":"24", "x":"550", "y":"260", "Position":"Midfielder", "Status":"starting"},    
+    {"name":"Toni Kroos", "Number":"8", "x":"550", "y":"470", "Position":"Midfielder", "Status":"starting"},    
+	{"name":"James Rodríguez", "Number":"10", "x":"650", "y":"660", "Position":"Midfielder", "Status":"starting"},
+	{"name":"Cristiano Ronaldo", "Number":"7", "x":"870", "y":"150", "Position":"Forward", "Status":"starting"},
+	{"name":"Gareth Bale", "Number":"11", "x":"870", "y":"570", "Position":"Forward", "Status":"starting"}
+]
+}
