@@ -8,7 +8,7 @@
     {"name":"Hardik Pandya", "Number":"33", "x":"140", "y":"250", "Position":"Midfielder", "Status":"starting"},    
     {"name":"Kuldeep Yadav", "Number":"23", "x":"440", "y":"250", "Position":"Midfielder", "Status":"starting"},    
 	{"name":"Yuzvendra Chahal", "Number":"6", "x":"320", "y":"150", "Position":"Midfielder", "Status":"starting"},
-	{"name":"Bhuvneshwar Kumar", "Number":"15", "x":"340", "y":"170", "Position":"Forward", "Status":"starting"},
+	{"name":"Bhuvneshwar Kumar", "Number":"15", "x":"235", "y":"360", "Position":"Forward", "Status":"starting"},
 	{"name":"Jasprit Bumrah", "Number":"93", "x":"320", "y":"280", "Position":"Forward", "Status":"starting"}
 ]
 }
